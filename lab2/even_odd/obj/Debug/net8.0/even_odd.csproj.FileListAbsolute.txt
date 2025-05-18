@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\lab2\even_odd\bin\Debug\net8.0\even_odd.exe
+C:\Users\Acer\source\repos\lab2\even_odd\bin\Debug\net8.0\even_odd.deps.json
+C:\Users\Acer\source\repos\lab2\even_odd\bin\Debug\net8.0\even_odd.runtimeconfig.json
+C:\Users\Acer\source\repos\lab2\even_odd\bin\Debug\net8.0\even_odd.dll
+C:\Users\Acer\source\repos\lab2\even_odd\bin\Debug\net8.0\even_odd.pdb
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.AssemblyInfo.cs
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.dll
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\refint\even_odd.dll
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.pdb
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\even_odd.genruntimeconfig.cache
+C:\Users\Acer\source\repos\lab2\even_odd\obj\Debug\net8.0\ref\even_odd.dll

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB04F10-0212-4E0F-96B3-E0E25963F3BB}|array\\array.csproj|c:\\users\\acer\\source\\repos\\lab2\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB04F10-0212-4E0F-96B3-E0E25963F3BB}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB04F10-0212-4E0F-96B3-E0E25963F3BB}|array\\array.csproj|c:\\users\\acer\\source\\repos\\lab2\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB04F10-0212-4E0F-96B3-E0E25963F3BB}|array\\array.csproj|solutionrelative:array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE16EE-230C-4864-977B-F66EE3CCC9C0}|leap_year\\leap_year.csproj|c:\\users\\acer\\source\\repos\\lab2\\leap_year\\leap_year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE16EE-230C-4864-977B-F66EE3CCC9C0}|leap_year\\leap_year.csproj|solutionrelative:leap_year\\leap_year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE16EE-230C-4864-977B-F66EE3CCC9C0}|leap_year\\leap_year.csproj|c:\\users\\acer\\source\\repos\\lab2\\leap_year\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE16EE-230C-4864-977B-F66EE3CCC9C0}|leap_year\\leap_year.csproj|solutionrelative:leap_year\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFB69C3-5011-4B06-8882-1B016D32C9EB}|factorial\\factorial.csproj|c:\\users\\acer\\source\\repos\\lab2\\factorial\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFB69C3-5011-4B06-8882-1B016D32C9EB}|factorial\\factorial.csproj|solutionrelative:factorial\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFB69C3-5011-4B06-8882-1B016D32C9EB}|factorial\\factorial.csproj|c:\\users\\acer\\source\\repos\\lab2\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFB69C3-5011-4B06-8882-1B016D32C9EB}|factorial\\factorial.csproj|solutionrelative:factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802F3257-A837-452C-A388-9A1A2BC671F4}|Sum\\Sum.csproj|c:\\users\\acer\\source\\repos\\lab2\\sum\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802F3257-A837-452C-A388-9A1A2BC671F4}|Sum\\Sum.csproj|solutionrelative:sum\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802F3257-A837-452C-A388-9A1A2BC671F4}|Sum\\Sum.csproj|c:\\users\\acer\\source\\repos\\lab2\\sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802F3257-A837-452C-A388-9A1A2BC671F4}|Sum\\Sum.csproj|solutionrelative:sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46974D9F-63DB-4339-883C-75871C763F51}|even_odd\\even_odd.csproj|c:\\users\\acer\\source\\repos\\lab2\\even_odd\\even_odd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46974D9F-63DB-4339-883C-75871C763F51}|even_odd\\even_odd.csproj|solutionrelative:even_odd\\even_odd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46974D9F-63DB-4339-883C-75871C763F51}|even_odd\\even_odd.csproj|c:\\users\\acer\\source\\repos\\lab2\\even_odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46974D9F-63DB-4339-883C-75871C763F51}|even_odd\\even_odd.csproj|solutionrelative:even_odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4422BBC7-C9CA-49B3-ABEE-0260641051E0}|Swap\\Swap.csproj|c:\\users\\acer\\source\\repos\\lab2\\swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4422BBC7-C9CA-49B3-ABEE-0260641051E0}|Swap\\Swap.csproj|solutionrelative:swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4422BBC7-C9CA-49B3-ABEE-0260641051E0}|Swap\\Swap.csproj|c:\\users\\acer\\source\\repos\\lab2\\swap\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4422BBC7-C9CA-49B3-ABEE-0260641051E0}|Swap\\Swap.csproj|solutionrelative:swap\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407F8AA9-E4CF-4E6E-B1C3-CD31C11BACD9}|Hello\\Hello.csproj|c:\\users\\acer\\source\\repos\\lab2\\hello\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407F8AA9-E4CF-4E6E-B1C3-CD31C11BACD9}|Hello\\Hello.csproj|solutionrelative:hello\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407F8AA9-E4CF-4E6E-B1C3-CD31C11BACD9}|Hello\\Hello.csproj|c:\\users\\acer\\source\\repos\\lab2\\hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407F8AA9-E4CF-4E6E-B1C3-CD31C11BACD9}|Hello\\Hello.csproj|solutionrelative:hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17049E5-74C2-463B-998D-E44C05A094AB}|LargestNum\\LargestNum.csproj|c:\\users\\acer\\source\\repos\\lab2\\largestnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17049E5-74C2-463B-998D-E44C05A094AB}|LargestNum\\LargestNum.csproj|solutionrelative:largestnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17049E5-74C2-463B-998D-E44C05A094AB}|LargestNum\\LargestNum.csproj|c:\\users\\acer\\source\\repos\\lab2\\largestnum\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17049E5-74C2-463B-998D-E44C05A094AB}|LargestNum\\LargestNum.csproj|solutionrelative:largestnum\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA205EA5-B31B-4438-8000-1E970301632C}|PrimeNum\\PrimeNum.csproj|c:\\users\\acer\\source\\repos\\lab2\\primenum\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA205EA5-B31B-4438-8000-1E970301632C}|PrimeNum\\PrimeNum.csproj|solutionrelative:primenum\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA205EA5-B31B-4438-8000-1E970301632C}|PrimeNum\\PrimeNum.csproj|c:\\users\\acer\\source\\repos\\lab2\\primenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA205EA5-B31B-4438-8000-1E970301632C}|PrimeNum\\PrimeNum.csproj|solutionrelative:primenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "array.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\array\\array.cs",
+              "RelativeDocumentMoniker": "array\\array.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\array\\array.cs",
+              "RelativeToolTip": "array\\array.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:44:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:44:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leap_year.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\leap_year\\leap_year.cs",
+              "RelativeDocumentMoniker": "leap_year\\leap_year.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\leap_year\\leap_year.cs",
+              "RelativeToolTip": "leap_year\\leap_year.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:42:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\leap_year\\Program.cs",
+              "RelativeDocumentMoniker": "leap_year\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\leap_year\\Program.cs",
+              "RelativeToolTip": "leap_year\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:42:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "factorial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\factorial\\factorial.cs",
+              "RelativeDocumentMoniker": "factorial\\factorial.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\factorial\\factorial.cs",
+              "RelativeToolTip": "factorial\\factorial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:40:15.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\factorial\\Program.cs",
+              "RelativeDocumentMoniker": "factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\factorial\\Program.cs",
+              "RelativeToolTip": "factorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:40:05.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sum.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Sum\\sum.cs",
+              "RelativeDocumentMoniker": "Sum\\sum.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Sum\\sum.cs",
+              "RelativeToolTip": "Sum\\sum.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:38:22.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Sum\\Program.cs",
+              "RelativeToolTip": "Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:38:12.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "even_odd.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\even_odd\\even_odd.cs",
+              "RelativeDocumentMoniker": "even_odd\\even_odd.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\even_odd\\even_odd.cs",
+              "RelativeToolTip": "even_odd\\even_odd.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:36:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\even_odd\\Program.cs",
+              "RelativeDocumentMoniker": "even_odd\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\even_odd\\Program.cs",
+              "RelativeToolTip": "even_odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:35:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "swap.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Swap\\swap.cs",
+              "RelativeDocumentMoniker": "Swap\\swap.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Swap\\swap.cs",
+              "RelativeToolTip": "Swap\\swap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:34:37.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Swap\\Program.cs",
+              "RelativeDocumentMoniker": "Swap\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Swap\\Program.cs",
+              "RelativeToolTip": "Swap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:34:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hello.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Hello\\hello.cs",
+              "RelativeDocumentMoniker": "Hello\\hello.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Hello\\hello.cs",
+              "RelativeToolTip": "Hello\\hello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:29:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\Hello\\Program.cs",
+              "RelativeDocumentMoniker": "Hello\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\Hello\\Program.cs",
+              "RelativeToolTip": "Hello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:28:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Prime.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\PrimeNum\\Prime.cs",
+              "RelativeDocumentMoniker": "PrimeNum\\Prime.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\PrimeNum\\Prime.cs",
+              "RelativeToolTip": "PrimeNum\\Prime.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:24:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\PrimeNum\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNum\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\PrimeNum\\Program.cs",
+              "RelativeToolTip": "PrimeNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:24:06.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "largest.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\LargestNum\\largest.cs",
+              "RelativeDocumentMoniker": "LargestNum\\largest.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\LargestNum\\largest.cs",
+              "RelativeToolTip": "LargestNum\\largest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:13:21.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\LargestNum\\Program.cs",
+              "RelativeDocumentMoniker": "LargestNum\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\LargestNum\\Program.cs",
+              "RelativeToolTip": "LargestNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:12:59.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

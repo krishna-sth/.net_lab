@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\lab2\lab2\bin\Debug\net8.0\PrimeNumber.exe
+C:\Users\Acer\source\repos\lab2\lab2\bin\Debug\net8.0\PrimeNumber.deps.json
+C:\Users\Acer\source\repos\lab2\lab2\bin\Debug\net8.0\PrimeNumber.runtimeconfig.json
+C:\Users\Acer\source\repos\lab2\lab2\bin\Debug\net8.0\PrimeNumber.dll
+C:\Users\Acer\source\repos\lab2\lab2\bin\Debug\net8.0\PrimeNumber.pdb
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.dll
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\refint\PrimeNumber.dll
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.pdb
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\PrimeNumber.genruntimeconfig.cache
+C:\Users\Acer\source\repos\lab2\lab2\obj\Debug\net8.0\ref\PrimeNumber.dll
